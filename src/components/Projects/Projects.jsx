@@ -2,10 +2,10 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import editor from "../../assets/Projects/codeEditor.png";
+import chatify from "../../assets/Projects/chatify.png";
 
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import bitsOfCode from "../../assets/Projects/blog.png";
 
 function Projects() {
   return (
